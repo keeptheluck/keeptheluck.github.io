@@ -1,6 +1,3 @@
-# Duke - Roblox Backend Systems Programmer
-8 years specializing in complex game systems & backend architecture
-
 ## What I Build
 - Complex backend systems (inventory, progression, data management)
 - Combat systems with network optimization
